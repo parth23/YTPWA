@@ -1,0 +1,23 @@
+   {
+    "name": "YouTube Trends",
+    "short_name": "YouTube Trends",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-w1NZhaMs2aw/YO5lgwVkd6I/AAAAAAAAAO8/7ARU1N3y55Yazdcwx5T6LTi7c5LdBS5tQCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-gMO2ucvzthQ/YO5lrXKHyhI/AAAAAAAAAPA/KeKYq-c6JQUtpAHBsC_ayzdFrP366ClSQCLcBGAsYHQ/s0/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://youtubetrends.net"
+}
